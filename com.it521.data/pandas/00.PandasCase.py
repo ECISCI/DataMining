@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 
-# aibi
+# README
 stock_change = np.random.standard_normal((8, 10))
 print("###### stock_change ######")
 print(stock_change)
